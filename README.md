@@ -1,6 +1,5 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
 **feliguez/feliguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2> Hi there, I'm Felipe! 👋 </h2>
+
+### I'm a Husband, father of :dog: and Front-End Developer
+
+Passionate about both UI and UX, I've mostly worked with modern frameworks like React, with hooks and Typescript.
+
+### Connect with me:
+
+- Email me at: [felipe.rodriguezn@gmail.com](mailto:felipe.rodriguezn@gmail.com)
+- Connect me at: [LinkedIn](https://cl.linkedin.com/in/feliperodriguezn)
