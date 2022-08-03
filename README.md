@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm Felipe! 👋 
 
-### 😄 I'm a Husband, father of Dominga (:dog:) and Front-End Developer
+### 😄 I'm a Husband, father of Lucía (👶) and Dominga (🐶) and Front-End Developer
 
 Passionate about both UI and UX, I've mostly worked with modern frameworks like React, with hooks and Typescript.
 
